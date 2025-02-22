@@ -3,7 +3,9 @@
 A PyTorch model designed to predict the risk of heart disease based on a combination of symptoms, lifestyle factors, and medical history.
 The model achieves approximately 99.27% accuracy on test data.
 
-[Dataset link](https://www.kaggle.com/datasets/mahatiratusher/heart-disease-risk-prediction-dataset)
+[Download the dataset here](heart_disease_classifier_model.pth)
+
+[Kaggle Dataset link](https://www.kaggle.com/datasets/mahatiratusher/heart-disease-risk-prediction-dataset)
 
 ## Overview
 
