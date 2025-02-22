@@ -1,6 +1,6 @@
 # heart-disease-ml-classifier
 
-A PyTorch model designed to predict the risk of heart disease based on a combination of symptoms, lifestyle factors, and medical history from a 70,000+ data sample.
+A PyTorch model designed to predict the risk of heart disease based on a combination of symptoms, lifestyle factors, and medical history from 70,000+ data samples.
 The model achieves approximately 99.27% accuracy on test data.
 
 [Download the dataset here](heart_disease_classifier_model.pth)
